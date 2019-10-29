@@ -8,7 +8,7 @@
 
 ```
 ├─ Base_config            基础设置
-│    ├─ base_selenium     初始化driver
+│    ├─ base_appium     初始化driver
 │    ├─ HTMLTestRunner_cn 生成的excel报告格式
 │   
 |    
